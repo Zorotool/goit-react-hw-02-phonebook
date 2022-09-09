@@ -11,6 +11,7 @@ export class App extends Component {
     bad: 0,
   };
 
+  
   render() {
     return (
       <>
